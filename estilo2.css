@@ -12,8 +12,9 @@ p {
     font-family: 'Times New Roman', Times, serif;
     background-color: darkgray;
     position: absolute;
-    top: 450px;
-   margin: 30px;
+    top: 250px;
+    
+   
 }
 h2 {
     position: relative;
