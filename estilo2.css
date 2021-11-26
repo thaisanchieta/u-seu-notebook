@@ -2,7 +2,9 @@
     display: flex;
     justify-content:space-between;
     position:absolute;
-    left: 0px;
+    left: 300px;
+    width: 100%;
+    max-width: 700px;
 }
 
     
@@ -12,7 +14,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
     background-color: darkgray;
     position: absolute;
-    top: 250px;
+    top: 220px;
     
    
 }
