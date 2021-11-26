@@ -1,0 +1,18 @@
+.produtos {
+    display: flex;
+    justify-content:space-between;}
+    
+
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgray;
+    position: absolute;
+    top: 450px;
+   margin: 30px;
+}
+h2 {
+    position: relative;
+    top: 50px;
+    left:50px
+}
