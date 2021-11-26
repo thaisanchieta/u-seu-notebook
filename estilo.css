@@ -5,15 +5,15 @@
 
 .logo {
 position: absolute;
-bottom: 470px; ;
-left: 25px;
+bottom: 400px; ;
+left: 15px;
 }
 
 nav ul
 {
     position: absolute;
-    top: 150px;
-    left: 700px;
+    top: 100px;
+    left: 320px;
 }
 
 
@@ -22,7 +22,7 @@ nav ul
     list-style: none;
     display: inline-block;
     font-size: 24px;
-    margin-right: 40px;
+    margin-right: 10px;
     background-color:lightgrey;
     
     
@@ -39,7 +39,7 @@ color: black;
 main {
     position: absolute;
     top: 200px;
-    left: 600px;
+    left: 500px;
     width: 10px;
 }
 
@@ -53,15 +53,15 @@ p {
 h2 {
     position: absolute;
     top: 300px;
-    left: 200px;
-    font-size: 40px;
+    left: 15px;
+    font-size: 20px;
 }
 
 h3 {
     position: absolute;
-    top: 400px;
-    left: 265px;
-    font-size: 25px;
+    top: 350px;
+    left: 50px;
+    font-size: 10px;
 }
 
 .logomarcas {
@@ -69,14 +69,14 @@ h3 {
     flex-wrap: wrap;
     justify-content:center;
     position: absolute;
-    top:650px;
+    top:450px;
     left: 300px;
     
 }
 
 .logomarcas img {
     
-    max-width: 100%;
+    max-width: 50%;
 }
     
 

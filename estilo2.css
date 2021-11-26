@@ -1,6 +1,10 @@
 .produtos {
     display: flex;
-    justify-content:space-between;}
+    justify-content:space-between;
+    position:absolute
+    left: 0px
+}
+
     
 
 
