@@ -5,6 +5,6 @@
 <p> U seu Notebook é o primeiro projeto individual da turma de Dev Fullstack da Gama Academy XP40, que consiste em  criar um site apenas com html e css.
 
 <h1>Tecnologias utilizadas</h1>
-<h2>Projeto foi desenvolvido usando HTML e CSS.</h2>
+<p>Projeto foi desenvolvido usando HTML e CSS.</p>
 
 <h4>Projeto README em construção...</h4>
