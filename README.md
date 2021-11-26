@@ -7,4 +7,4 @@
 <h1>Tecnologias utilizadas</h1>
 <h2>Projeto foi desenvolvido usando HTML e CSS.</h2>
 
-<h4>Projeito README em construção...</h4>
+<h4>Projeto README em construção...</h4>
